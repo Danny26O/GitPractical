@@ -2,6 +2,6 @@
 
 # Summarising articles.
 # Steps
-Scrapping content
+Scraping content
 Install libraries
 - beautifulsoup
